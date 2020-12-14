@@ -3,4 +3,25 @@ body{
   align-items: center;
   justify-content: center;
   margin: 0;
+  padding: 20px;
+}
+
+ul.header li{
+  display: inline;
+  list-style-type: none;
+  margin: 0;
+}
+
+ul.header li a{
+  color: aqua;
+  font-weight: bold;
+  padding: 20px;
+  display: inline-block;
+}
+
+.content{
+  padding: 20px;
+}
+.contnent lid{
+  margin-bottom: 10px;
 }
