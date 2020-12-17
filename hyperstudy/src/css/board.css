@@ -1,0 +1,23 @@
+.write{
+    padding:20px;
+}
+
+.write div {
+    margin: 10px;
+}
+
+#board_title{
+    border: none;
+    width: 100%;
+}
+#board_contents{
+    width: 91%;
+    resize: none;
+    border: none;
+    height: 200px;
+}
+
+#board_post{
+    border: solid 2px aqua;
+    background-color: white;
+}

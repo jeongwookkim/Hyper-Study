@@ -5,23 +5,34 @@ body{
   margin: 0;
   padding: 20px;
 }
-
-ul.header li{
+body h1{
+  text-align: center;
+  font-weight: bold;
+}
+.header{
+  text-align: center;
+}
+.header div a{
+  font-weight: bold;
+  color: aqua;
+}
+.header li{
   display: inline;
   list-style-type: none;
-  margin: 0;
+  text-align: center;
 }
 
 ul.header li a{
   color: aqua;
   font-weight: bold;
-  padding: 20px;
+  padding: 10px;
   display: inline-block;
+  text-align: center;
 }
 
 .content{
   padding: 20px;
 }
-.contnent lid{
+.contnent li{
   margin-bottom: 10px;
 }
